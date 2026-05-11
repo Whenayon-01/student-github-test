@@ -1,1 +1,1 @@
-# student-github-test
+Hello! My name is Owolabani Ayobami. I am a master’s student in Modern Software Development at Southern Federal University in Rostov-on-Don. I enjoy learning programming and improving my Russian language alongside my technical studies. My hobbies include singing, reading, and traveling. My goal is to become a professional software developer.
